@@ -1,0 +1,7 @@
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\TBQuestGameRH.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\PresentationLayer\GameSessionView.baml
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\PresentationLayer\GameSessionView.g.cs
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\PresentationLayer\PlayerSetupWindow.g.cs
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\App.g.cs
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\TBQuestGameRH_MarkupCompile.cache
+C:\Users\Ryan\Desktop\TBQuestGameRH\TBQuestGameRH\obj\Debug\TBQuestGameRH_MarkupCompile.lref
